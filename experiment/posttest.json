@@ -2,38 +2,89 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "For most economical rectangular section of a channel, the depth is kept",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "1/2 of the width",
+        "b": "Hydraulic mean depth",
+        "c": "1/4th of width",
+        "d": "3 times the hydraulic radius"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "a",
-      "difficulty": "beginner"
+      "difficulty": ""
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "When water flows over a rectangular suppressed weir, the negative pressure created beneath the nappe",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Decrease the discharge",
+        "b": "Does not affect the discharge",
+        "c": "Increase the discharge",
+        "d": "None of these"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": ""
+    },
+    {
+      "question": "A notch is a device used to measure",
+      "answers": {
+        "a": "rate of change of fluid through any type of channels",
+        "b": "rate of change of fluid through small channels",
+        "c": "rate of change of fluid through large channels",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "The sheet of liquid flowing over a notch is known as",
+      "answers": {
+        "a": "Nappe",
+        "b": "Sill",
+        "c": "Crest",
+        "d": "None"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "For a suppressed rectangular weir an arrangement for aeration of nappe is necessary ______.",
+      "answers": {
+        "a": "To maintain water quality ",
+        "b": "To prevent submergence of the weir",
+        "c": "To have the highest value of C<sub>d</sub>",
+        "d": "To have a constant head discharge relationship which is independent of time"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
     }
   ]
 }
